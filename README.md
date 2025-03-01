@@ -121,7 +121,7 @@ Want to improve this package? Follow these steps:
 ### **1. Clone the Repository**
 
 ```sh
-git clone https://github.com/yourusername/use-auto-scroll.git
+git clone https://github.com/ubeyidah/use-auto-scroll.git
 cd use-auto-scroll
 ```
 
@@ -130,21 +130,6 @@ cd use-auto-scroll
 ```sh
 npm install
 ```
-
-### **3. Run TypeScript Build**
-
-```sh
-npx tsc
-```
-
-### **4. Publish New Version (For Maintainers)**
-
-```sh
-npm version patch
-npm publish
-```
-
----
 
 ## **📜 License**
 
