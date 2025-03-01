@@ -1,6 +1,6 @@
 {
-  "name": "use-auto-scroll",
-  "version": "1.0.1",
+  "name": "use-auto-scroller",
+  "version": "1.0.0",
   "description": "a react hook for auto scrolling to the bottom",
   "main": "index.js",
   "scripts": {

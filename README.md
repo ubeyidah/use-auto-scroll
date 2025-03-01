@@ -1,4 +1,4 @@
-# **use-auto-scroll**
+# **use-auto-scroller**
 
 _A simple React hook to automatically scroll to the bottom when new messages arrive._
 
@@ -16,11 +16,11 @@ _A simple React hook to automatically scroll to the bottom when new messages arr
 Install via **npm** or **yarn**:
 
 ```sh
-npm install use-auto-scroll
+npm install use-auto-scroller
 # or
-yarn add use-auto-scroll
+yarn add use-auto-scroller
 # or
-bun add use-auto-scroll
+bun add use-auto-scroller
 ```
 
 ---
@@ -31,7 +31,7 @@ Here's how to use the hook inside a **React chat application**:
 
 ```jsx
 import React, { useState } from "react";
-import useAutoScroll from "use-auto-scroll";
+import useAutoScroll from "use-auto-scroller";
 
 const ChatApp = () => {
   const [messages, setMessages] = useState(["Hello!", "How are you?"]);
@@ -121,8 +121,8 @@ Want to improve this package? Follow these steps:
 ### **1. Clone the Repository**
 
 ```sh
-git clone https://github.com/ubeyidah/use-auto-scroll.git
-cd use-auto-scroll
+git clone https://github.com/ubeyidah/use-auto-scroller.git
+cd use-auto-scroller
 ```
 
 ### **2. Install Dependencies**
